@@ -28,7 +28,11 @@ gulp
 ```
 
 #### Watchman error?
-Watchman will fail if there's no .git dir in the root of the project. You might need to `git init` if you cloned this repo instead of `este/este`.
+Watchman will fail if there's no .git dir in the root of the project. You might need to `git init` if you cloned this repo instead of `este/este`. 
+
+#### Git HEAD error?
+`git init && git add . && git commit -m 'Init'`
+
 
 #### Read more
 See a bunch of other docs ↗️ [here](https://github.com/este/este).

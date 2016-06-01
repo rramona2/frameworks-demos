@@ -27,6 +27,9 @@ npm i # Again
 gulp
 ```
 
+#### Watchman error?
+Watchman will fail if there's no .git dir in the root of the project. You might need to `git init` if you cloned this repo instead of `este/este`.
+
 #### Read more
 See a bunch of other docs ↗️ [here](https://github.com/este/este).
 

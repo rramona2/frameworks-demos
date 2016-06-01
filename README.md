@@ -30,10 +30,10 @@ There are also some cool plugins, like [avn](https://github.com/wbyoung/avn), to
 
 
 ## JavaScript frameworks: love & hate 💔 
-1. Accessibility, semantic structure (proper HTML) ↗️ [read](http://alistapart.com/article/let-links-be-links)
+1. Accessibility, semantic structure (proper HTML) ↗️ [read](http://alistapart.com/article/let-links-be-links-
 youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 2. Hard to progressively enhance ↗️ [read](http://alistapart.com/article/interaction-is-an-enhancement)
-3. Slow first render 🔄 ↗️ [read](http://tomdale.net/2015/02/
+3. Slow first render 🔄 ↗️ [read](http://tomdale.net/2015/02/)
 4. Not friendly with 🤖
 
 ###1 & 2. Common examples
